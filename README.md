@@ -3,7 +3,7 @@ php coding quiz
 
 Ariella Hanna
 
-#Comments
+# Comments
 	I had trouble getting the php server to work on my computer, so I wasn't able to test this code very thoroughly.  I think functionality should be okay, but it might have issues
 
 # Instructions
