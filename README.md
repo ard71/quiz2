@@ -1,6 +1,11 @@
 # quiz2
 php coding quiz
 
+Ariella Hanna
+
+#Comments
+	I had trouble getting the php server to work on my computer, so I wasn't able to test this code very thoroughly.  I think functionality should be okay, but it might have issues
+
 # Instructions
 I think it's about time to practice coding.
 
